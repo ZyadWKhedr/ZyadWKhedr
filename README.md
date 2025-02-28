@@ -1,6 +1,27 @@
 <h1 align="center">
-  <b>Zyad Wael</b> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+  <span>Hi</span> 
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h1>
+
+<h1 align="center">
+  <b>
+    <a href="#" id="typewriter"></a>
+  </b>
+</h1>
+
+<script>
+  let text = "I am Zyad Wael";
+  let index = 0;
+  function typeWriter() {
+    if (index < text.length) {
+      document.getElementById("typewriter").innerHTML += text.charAt(index);
+      index++;
+      setTimeout(typeWriter, 150);
+    }
+  }
+  typeWriter();
+</script>
+
 
 <p align="center">
   <i>🚀 Flutter Developer | Passionate about building amazing apps</i>
