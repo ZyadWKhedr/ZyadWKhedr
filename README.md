@@ -43,24 +43,22 @@
 
 ## ✍️ **My Latest Articles**
 <ul>
-  <li><a href="[https://medium.com/@zyadwael0/creating-a-custom-button-in-flutter-51a9db832d70](https://medium.com/@ziad.w.khedr/clean-architecture-in-flutter-why-your-code-needs-to-be-organized-089de26b71a5)"><i>Clean Architecture in Flutter — Why Your Code Needs to Be Organized.</i></a></li>
-  <li><a href="https://medium.com/@zyadwael0/understanding-state-management-in-flutter-getx-vs-provider-9f7f2e24d9a8"><i>Understanding State Management in Flutter: GetX vs Provider</i></a></li>
-  <li><a href="https://medium.com/@zyadwael0/best-practices-for-structuring-a-flutter-project-83e48b0a3d71"><i>Best Practices for Structuring a Flutter Project</i></a></li>
+  <li><a href="https://medium.com/@zyadwael0/creating-a-custom-button-in-flutter-51a9db832d70](https://medium.com/@ziad.w.khedr/clean-architecture-in-flutter-why-your-code-needs-to-be-organized-089de26b71a5)"><i>Clean Architecture in Flutter — Why Your Code Needs to Be Organized.</i></a></li>
 </ul>
 
 ---
 
 ## 🌐 **My Portfolio**
-🚀 Check out my projects at **[zyadwael.dev]([https://zyadwael.dev/](https://zyadwkhedr.github.io/Portfolio/))**  
+🚀 Check out my projects at **[zyadwael.dev](https://zyadwael.dev/](https://zyadwkhedr.github.io/Portfolio/))**  
 
 ---
 
 ## 🔗 **Connect with Me**
 <p>
-  <a href="[https://www.linkedin.com/in/zyadwael0](https://www.linkedin.com/in/zyad-wael-a9035a275/)" target="_blank">
+  <a href="https://www.linkedin.com/in/zyadwael0](https://www.linkedin.com/in/zyad-wael-a9035a275/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://medium.com/@zyadwael0](https://medium.com/@ziad.w.khedr)" target="_blank">
+  <a href="https://medium.com/@zyadwael0](https://medium.com/@ziad.w.khedr" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:ziad.w.khedr@gmail.com">
