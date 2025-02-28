@@ -5,23 +5,9 @@
 
 <h1 align="center">
   <b>
-    <a href="#" id="typewriter"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=I+am+Zyad+Wael" alt="Typing Animation" />
   </b>
 </h1>
-
-<script>
-  let text = "I am Zyad Wael";
-  let index = 0;
-  function typeWriter() {
-    if (index < text.length) {
-      document.getElementById("typewriter").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeWriter, 150);
-    }
-  }
-  typeWriter();
-</script>
-
 
 <p align="center">
   <i>🚀 Flutter Developer | Passionate about building amazing apps</i>
@@ -31,9 +17,9 @@
 
 ## 👨‍💻 **About Me**
 - 🎯 **Flutter Developer** with a passion for creating high-quality mobile applications.  
-- 💡 Interested in **state management, animations, and performance optimization**.  
-- 🚀 Always learning and exploring new technologies to enhance my Flutter skills.  
-- 🔥 Currently working on **WizWords**, an interactive language learning app.  
+- 💡 Focused on **state management, animations, and performance optimization**.  
+- 🚀 Currently working on **WizWords**, an interactive language learning app.  
+- 💻 Open to exciting Flutter opportunities!  
 
 ---
 
@@ -43,6 +29,8 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="GetX" src="https://img.shields.io/badge/-GetX-68B984?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="Riverpod" src="https://img.shields.io/badge/-Riverpod-2E3440?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="Provider" src="https://img.shields.io/badge/-Provider-268BD2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -63,6 +51,21 @@
 
 ## 🌐 **My Portfolio**
 🚀 Check out my projects at **[zyadwael.dev](https://zyadwael.dev/)**  
+
+---
+
+## 🔗 **Connect with Me**
+<p>
+  <a href="https://www.linkedin.com/in/zyadwael0" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@zyadwael0" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:zyadwael0@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
