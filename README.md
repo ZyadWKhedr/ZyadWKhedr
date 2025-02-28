@@ -16,10 +16,11 @@
 ---
 
 ## 👨‍💻 **About Me**
-- 🎯 **Flutter Developer** with a passion for creating high-quality mobile applications.  
-- 💡 Focused on **state management, animations, and performance optimization**.  
-- 🚀 Currently working on **WizWords**, an interactive language learning app.  
-- 💻 Open to exciting Flutter opportunities!  
+📱 I'm a **Flutter Mobile Application Developer**.  
+🎓 Bachelor in **Computer Science**.  
+📝 I love **sharing my experience** and **writing articles** about Flutter.  
+💬 Ask me anything related to **Flutter technology**.  
+👯 I’m looking to **collaborate** on projects that could **help the community**.  
 
 ---
 
