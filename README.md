@@ -1,13 +1,13 @@
 <h1 align="center">
-  <span>Hi</span> 
+  <span>Hi, I'm Zyad Wael</span> 
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h1>
 
-<h1 align="center">
+<h2 align="center">
   <b>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=I+am+Zyad+Wael" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Flutter+Developer;Always+Learning+New+Things" alt="Typing Animation" />
   </b>
-</h1>
+</h2>
 
 <p align="center">
   <i>🚀 Flutter Developer | Passionate about building amazing apps</i>
