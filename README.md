@@ -1,10 +1,22 @@
-### 👋 Hi there, I'm Zyad Wael!
+<h1 align="center">
+  <b>Zyad Wael</b> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+</h1>
+
+<p align="center">
+  <i>🚀 Flutter Developer | Passionate about building amazing apps</i>
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ZyadWael&color=fb4362)
+## 👨‍💻 **About Me**
+- 🎯 **Flutter Developer** with a passion for creating high-quality mobile applications.  
+- 💡 Interested in **state management, animations, and performance optimization**.  
+- 🚀 Always learning and exploring new technologies to enhance my Flutter skills.  
+- 🔥 Currently working on **WizWords**, an interactive language learning app.  
 
-<h3>When I code, I rely on</h3>
+---
+
+## 🛠 **Tech Stack**
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -19,7 +31,7 @@
 
 ---
 
-<h3>📜 My Latest Articles</h3>
+## ✍️ **My Latest Articles**
 <ul>
   <li><a href="https://medium.com/@zyadwael0/creating-a-custom-button-in-flutter-51a9db832d70"><i>Creating a Custom Button in Flutter</i></a></li>
   <li><a href="https://medium.com/@zyadwael0/understanding-state-management-in-flutter-getx-vs-provider-9f7f2e24d9a8"><i>Understanding State Management in Flutter: GetX vs Provider</i></a></li>
@@ -28,12 +40,12 @@
 
 ---
 
-<h3>🌐 My Portfolio</h3>
-🚀 Check out my projects and more at **[zyadwael.dev](https://zyadwael.dev/)**  
+## 🌐 **My Portfolio**
+🚀 Check out my projects at **[zyadwael.dev](https://zyadwael.dev/)**  
 
 ---
 
-<h3>☕ Buy Me a Coffee</h3>
+## ☕ **Buy Me a Coffee**
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee? 🥺  
 
 <a href="https://www.buymeacoffee.com/zyadwael" target="_blank">
@@ -42,8 +54,13 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 ---
 
-<h3>🔥 GitHub Contributions Summary</h3>
+## 🔥 **GitHub Contributions Summary**
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ZyadWael&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" />
+  </a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZyadWael&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![Zyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyadWael&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+</p>
