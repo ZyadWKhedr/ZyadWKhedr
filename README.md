@@ -46,8 +46,8 @@
 
 ---
 
-## 🌐 **My Portfolio**
-🚀 Check out my projects at **[zyadwael.dev](https://zyadwael.dev/](https://zyadwkhedr.github.io/Portfolio/))**  
+## 🌐 Portfolio  
+🚀 Check out my projects: **[zyadwael.dev](https://zyadwkhedr.github.io/Portfolio/)**   
 
 ---
 
