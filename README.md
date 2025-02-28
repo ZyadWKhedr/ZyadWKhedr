@@ -17,7 +17,6 @@
 
 ## 👨‍💻 **About Me**
 📱 I'm a **Flutter Mobile Application Developer**.  
-🎓 Bachelor in **Computer Science**.  
 📝 I love **sharing my experience** and **writing articles** about Flutter.  
 💬 Ask me anything related to **Flutter technology**.  
 👯 I’m looking to **collaborate** on projects that could **help the community**.  
@@ -36,6 +35,7 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
@@ -43,7 +43,7 @@
 
 ## ✍️ **My Latest Articles**
 <ul>
-  <li><a href="https://medium.com/@zyadwael0/creating-a-custom-button-in-flutter-51a9db832d70"><i>Creating a Custom Button in Flutter</i></a></li>
+  <li><a href="[https://medium.com/@zyadwael0/creating-a-custom-button-in-flutter-51a9db832d70](https://medium.com/@ziad.w.khedr/clean-architecture-in-flutter-why-your-code-needs-to-be-organized-089de26b71a5)"><i>Clean Architecture in Flutter — Why Your Code Needs to Be Organized.</i></a></li>
   <li><a href="https://medium.com/@zyadwael0/understanding-state-management-in-flutter-getx-vs-provider-9f7f2e24d9a8"><i>Understanding State Management in Flutter: GetX vs Provider</i></a></li>
   <li><a href="https://medium.com/@zyadwael0/best-practices-for-structuring-a-flutter-project-83e48b0a3d71"><i>Best Practices for Structuring a Flutter Project</i></a></li>
 </ul>
@@ -51,19 +51,19 @@
 ---
 
 ## 🌐 **My Portfolio**
-🚀 Check out my projects at **[zyadwael.dev](https://zyadwael.dev/)**  
+🚀 Check out my projects at **[zyadwael.dev]([https://zyadwael.dev/](https://zyadwkhedr.github.io/Portfolio/))**  
 
 ---
 
 ## 🔗 **Connect with Me**
 <p>
-  <a href="https://www.linkedin.com/in/zyadwael0" target="_blank">
+  <a href="[https://www.linkedin.com/in/zyadwael0](https://www.linkedin.com/in/zyad-wael-a9035a275/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@zyadwael0" target="_blank">
+  <a href="[https://medium.com/@zyadwael0](https://medium.com/@ziad.w.khedr)" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:zyadwael0@gmail.com">
+  <a href="mailto:ziad.w.khedr@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -73,7 +73,7 @@
 ## ☕ **Buy Me a Coffee**
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee? 🥺  
 
-<a href="https://www.buymeacoffee.com/zyadwael" target="_blank">
+<a href="buymeacoffee.com/zyad_wael" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
 </a>
 
