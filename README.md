@@ -41,10 +41,8 @@
 
 ---
 
-## ✍️ **My Latest Articles**
-<ul>
-  <li><a href="https://medium.com/@zyadwael0/creating-a-custom-button-in-flutter-51a9db832d70](https://medium.com/@ziad.w.khedr/clean-architecture-in-flutter-why-your-code-needs-to-be-organized-089de26b71a5)"><i>Clean Architecture in Flutter — Why Your Code Needs to Be Organized.</i></a></li>
-</ul>
+✍️ My Latest Articles
+<ul> <li><a href="https://medium.com/@ziad.w.khedr/clean-architecture-in-flutter-why-your-code-needs-to-be-organized-089de26b71a5"><i>Clean Architecture in Flutter — Why Your Code Needs to Be Organized.</i></a></li> </ul>
 
 ---
 
@@ -53,19 +51,8 @@
 
 ---
 
-## 🔗 **Connect with Me**
-<p>
-  <a href="https://www.linkedin.com/in/zyadwael0](https://www.linkedin.com/in/zyad-wael-a9035a275/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@zyadwael0](https://medium.com/@ziad.w.khedr" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:ziad.w.khedr@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+## 🔗 Connect with Me
+<p> <a href="https://www.linkedin.com/in/zyad-wael-a9035a275/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@ziad.w.khedr" target="_blank"> <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" /> </a> <a href="mailto:ziad.w.khedr@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
 ---
 
 ## ☕ **Buy Me a Coffee**
