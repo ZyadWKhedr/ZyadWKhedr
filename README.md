@@ -67,10 +67,10 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 ## 🔥 **GitHub Contributions Summary**
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ZyadWael&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZyadWael&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&cache_seconds=1800" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&cache_seconds=1800" />
 </p>
