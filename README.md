@@ -74,15 +74,15 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWKhedr&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Profile Summary Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZyadWael&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZyadWKhedr&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <!-- Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadWael&layout=compact&theme=dark&title_color=fb4362&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadWKhedr&layout=compact&theme=dark&title_color=fb4362&hide_border=true" alt="Top Languages" />
 </p>
