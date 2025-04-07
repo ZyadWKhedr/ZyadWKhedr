@@ -75,8 +75,11 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWKhedr&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <a href="https://github.com/ZyadWael">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&show_icons=true&theme=radical&hide=prs,contribs" alt="Zyad's GitHub Stats" />
+  </a>
 </p>
+
 
 <!-- GitHub Profile Summary Cards -->
 <p align="center">
