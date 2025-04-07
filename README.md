@@ -66,11 +66,15 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 ## 🔥 **GitHub Contributions Summary**
 <p align="center">
-  <a href="https://git.io/streak-stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZyadWael&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&cache_seconds=1800" />
+  <a href="https://github.com/ZyadWael">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ZyadWael&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZyadWael&theme=radical" alt="GitHub Profile Summary" />
 </p>
