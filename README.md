@@ -65,12 +65,13 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 ---
 ## 🔥 **GitHub Contributions Summary**
 
-<!-- GitHub Streak Stats with proper date formatting -->
+<<!-- GitHub Streak Stats with proper date formatting -->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=ZyadWKhedr&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
   </a>
 </p>
+
 
 <!-- GitHub Stats Card -->
 <p align="center">
