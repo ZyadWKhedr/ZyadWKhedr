@@ -43,6 +43,8 @@
 
 ✍️ My Latest Articles
 <ul> <li><a href="https://medium.com/@ziad.w.khedr/clean-architecture-in-flutter-why-your-code-needs-to-be-organized-089de26b71a5"><i>Clean Architecture in Flutter — Why Your Code Needs to Be Organized.</i></a></li> </ul>
+<ul> <li><a href="https://medium.com/@ziad.w.khedr/dependency-injection-in-flutter-using-riverpod-1118b7784893"><i>Dependency Injection in Flutter Using Riverpod. </i></a></li> </ul>
+<ul> <li><a href="https://medium.com/@ziad.w.khedr/integrating-gemini-ai-chat-with-flutter-using-riverpod-clean-architecture-and-dependency-6ed6d6ee0dfe"><i>Integrating Gemini AI Chat with Flutter Using Riverpod, Clean Architecture, and Dependency Injection</i></a></li> </ul>
 
 ---
 
