@@ -75,7 +75,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <a href="https://github.com/ZyadWael">
+  <a href="https://github.com/ZyadWKhedr">
     <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&show_icons=true&theme=radical&hide=prs,contribs" alt="Zyad's GitHub Stats" />
   </a>
 </p>
