@@ -63,23 +63,3 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 </a>
 
 ---
-
-## 🔥 **GitHub Contributions Summary**
-<p align="center">
-  <a href="https://github.com/ZyadWael">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ZyadWael&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZyadWael&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZyadWael&theme=radical" alt="GitHub Profile Summary" />
-</p>
-
-<!-- Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadWael&layout=compact&theme=dark&title_color=fb4362&hide_border=true" alt="Top Languages" />
-</p>
