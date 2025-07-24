@@ -5,7 +5,7 @@
 
 <h2 align="center">
   <b>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Flutter+Developer;DataScience+Student:Always+Learning+New+Things" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Flutter+Developer;DataScience+Student;Always+Learning+New+Things" alt="Typing Animation" />
   </b>
 </h2>
 
