@@ -65,16 +65,11 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 </a>
 
 ---
-
-![ZyadWKhedr's Stats](https://github-readme-stats.vercel.app/api?username=ZyadWKhedr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
----
 ## 🔥 **GitHub Contributions Summary**
 
-<<!-- GitHub Streak Stats with proper date formatting -->
+<!-- GitHub Streak Stats with proper date formatting -->
 <p align="center">
-  <!--<a href="https://git.io/streak-stats">-->
+  <a href="https://git.io/streak-stats">
   <a href="https://github.com/ZyadWKhedr">
     <img src="https://streak-stats.demolab.com/?user=ZyadWKhedr&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
   </a>
@@ -98,6 +93,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadWKhedr&layout=compact&theme=dark&title_color=fb4362&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 
