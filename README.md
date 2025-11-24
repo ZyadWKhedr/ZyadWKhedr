@@ -66,7 +66,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 ---
 
-![ZyadWKhedr's Stats](https://github-readme-stats.vercel.app/api?username=<ZyadWKhedr>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ZyadWKhedr's Stats](https://github-readme-stats.vercel.app/api?username=ZyadWKhedr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ---
@@ -98,5 +98,6 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadWKhedr&layout=compact&theme=dark&title_color=fb4362&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
