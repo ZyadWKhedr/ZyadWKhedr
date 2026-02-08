@@ -10,16 +10,16 @@
 </h2>
 
 <p align="center">
-  <i>🚀 Flutter Developer | Turning complex problems into elegant, user-centric mobile experiences.</i>
+  <i>🚀 Flutter Developer | Turning complex problems into elegant, high-performance mobile experiences</i>
 </p>
 
 ---
 
 ## 👨‍💻 **About Me**
-📱 I'm a **Flutter Mobile Application Developer** with a focus on clean, scalable code.  
-📝 I love **sharing my experience** and **writing technical articles** to help others master the Flutter ecosystem.  
-💬 Ask me anything related to **Flutter, State Management, or Clean Architecture**.  
-👯 I’m looking to **collaborate** on open-source projects that make a real impact on the developer community.  
+📱 I'm a **Flutter Mobile Application Developer**.  
+📝 I love **sharing my experience** and **writing articles** about Flutter.  
+💬 Ask me anything related to **Flutter technology**.  
+👯 I’m looking to **collaborate** on projects that could **help the community**.  
 
 ---
 
@@ -41,16 +41,19 @@
 
 ---
 
-## ✍️ **Latest Articles**
-* 📝 [**Clean Architecture in Flutter** — Why Your Code Needs to Be Organized.](https://medium.com/@ziad.w.khedr/clean-architecture-in-flutter-why-your-code-needs-to-be-organized-089de26b71a5)
-* 💉 [**Dependency Injection in Flutter** Using Riverpod.](https://medium.com/@ziad.w.khedr/dependency-injection-in-flutter-using-riverpod-1118b7784893)
-* 🤖 [**Integrating Gemini AI Chat** with Flutter, Riverpod, and Clean Architecture.](https://medium.com/@ziad.w.khedr/integrating-gemini-ai-chat-with-flutter-using-riverpod-clean-architecture-and-dependency-6ed6d6ee0dfe)
+✍️ My Latest Articles
+<ul> <li><a href="https://medium.com/@ziad.w.khedr/clean-architecture-in-flutter-why-your-code-needs-to-be-organized-089de26b71a5"><i>Clean Architecture in Flutter — Why Your Code Needs to Be Organized.</i></a></li> </ul>
+<ul> <li><a href="https://medium.com/@ziad.w.khedr/dependency-injection-in-flutter-using-riverpod-1118b7784893"><i>Dependency Injection in Flutter Using Riverpod. </i></a></li> </ul>
+<ul> <li><a href="https://medium.com/@ziad.w.khedr/integrating-gemini-ai-chat-with-flutter-using-riverpod-clean-architecture-and-dependency-6ed6d6ee0dfe"><i>Integrating Gemini AI Chat with Flutter Using Riverpod, Clean Architecture, and Dependency Injection</i></a></li> </ul>
 
 ---
 
-## 🌐 **Portfolio** 🚀 Explore my work: **[zyadwael.dev](https://zyadwael-portfolio-flutter.lovable.app)** ---
+## 🌐 Portfolio  
+🚀 Check out my projects: **[zyadwael.dev](https://zyadwael-portfolio-flutter.lovable.app)**
 
-## 🔗 **Connect with Me**
+---
+
+## 🔗 Connect with Me
 <p> 
   <a href="https://www.linkedin.com/in/zyad-wael-a9035a275/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> </a> 
   <a href="https://medium.com/@ziad.w.khedr" target="_blank"> <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" /> </a> 
@@ -59,19 +62,3 @@
 </p>
 
 ---
-
-## 🔥 **GitHub Activity**
-
-<p align="center">
-  <a href="https://github.com/ZyadWKhedr">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZyadWKhedr&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Zyad's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZyadWKhedr&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadWKhedr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
