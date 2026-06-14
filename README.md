@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,50:6366F1,100:8B5CF6&height=200&section=header&text=Zyad%20Wael&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%7C%20AI%20Integration%20Specialist&descAlignY=55&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,50:6366F1,100:8B5CF6&height=200&section=header&text=Zyad%20Wael&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20Developer&descAlignY=55&descSize=18&animation=fadeIn" />
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=13B9FD&center=true&vCenter=true&width=600&lines=Always+Building+New+Things;Mobile+Application+Developer;Flutter+Developer;Data+Science.+ML.+AI" alt="Typing SVG" />
 <br/>
